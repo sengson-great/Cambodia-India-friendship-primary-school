@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "date": "2026-03-20",
+    "title": "Parent-Teacher Meeting",
+    "description": "Discuss student progress and upcoming activities.",
+    "time": "2:00 PM - 5:00 PM",
+    "location": "School Hall"
+  },
+  {
+    "id": 2,
+    "date": "2026-04-05",
+    "title": "Sports Day",
+    "description": "Fun competitions for all grades including relay races, football, and traditional games.",
+    "time": "8:00 AM - 3:00 PM",
+    "location": "School Field"
+  },
+  {
+    "id": 3,
+    "date": "2026-04-13",
+    "title": "Khmer New Year Celebration",
+    "description": "Students will participate in traditional games and performances.",
+    "time": "9:00 AM - 11:30 AM",
+    "location": "School Hall"
+  },
+  {
+    "id": 4,
+    "date": "2026-05-05",
+    "title": "Science Fair",
+    "description": "Students showcase their science projects to parents and teachers.",
+    "time": "1:00 PM - 4:00 PM",
+    "location": "School Hall"
+  }
+]
