@@ -4,7 +4,7 @@
     <section class="relative bg-gradient-to-r from-gray-600 to-gray-800 text-white">
       <div class="absolute inset-0 overflow-hidden">
         <img 
-            src="/images/cischool.jpg" 
+            src="/images/cischool.jpeg" 
             alt="School Building"
             class="w-full h-full object-cover opacity-20">
       </div>
